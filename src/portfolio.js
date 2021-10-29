@@ -7,9 +7,9 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'we are teamxearth',
-  role: 'On-demand Development Team',
+  role: 'On-demand Consultancy and Development Team',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'I think it’s because we know from our past experiences that big things start small. The biggest oak starts from an acorn and if you want to do anything new, you’ve got to be willing to let that acorn grow into a little sapling and then finally into a small tree and maybe one day it will be a big business on its own. - Jeff Bezos',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',

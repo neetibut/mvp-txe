@@ -17,27 +17,42 @@ const about = {
   },
 }
 
+const aboutNV = [
+  {
+    // all the properties are optional - can be left empty or deleted
+    name: "I'm Neeti",
+    role: 'Neetibut Vasinondha, Founder and Chief Engineer',
+    description:
+      "Neeti is the founder and Chief Engineer at TeamXEarth, leading the overall direction and product strategy for the company and its family of apps: Smileytrade, Co-founder, Droptrade and Sangkom Capital. After earning his bachelor's and master's degree in medical engineering from Queen Mary, University of London in 2009, Neeti co-founded a food and technology startup in London in 2011. He led the company through a successful acquisition by a public company in 2017. He entered the software development industry in 2021 with particular interests in blockchain, artificial intelligence and app development. Neeti founded TeamXEarth as a digital-first and remote organization of multi-disciplinary full stack developers covering the fields of software engineering, design and strategy.",
+    resume: 'https://example.com',
+    social: {
+      linkedin: 'https://linkedin.com',
+      github: 'https://github.com',
+    },
+  },
+]
+
 const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
     name: 'Smileytrade.app',
     description: 'Trade US stocks and cryptocurrencies',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['SASS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://smileytrade.app',
   },
   {
     name: 'Sangkom Capital',
     description: 'Quant and AI-powered Hedge Fund',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['SASS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
   {
     name: 'Droptrade.io',
     description: 'The best app to trade globally',
-    stack: ['SASS', 'TypeScript', 'React'],
+    stack: ['SASS', 'JavaScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
   },
@@ -58,6 +73,7 @@ const skills = [
   'CI/CD',
   'Jest',
   'Enzyme',
+  'NFT',
 ]
 
 const contact = {
@@ -65,4 +81,4 @@ const contact = {
   email: 'hello@teamxearth.com',
 }
 
-export { header, about, projects, skills, contact }
+export { header, about, aboutNV, projects, skills, contact }

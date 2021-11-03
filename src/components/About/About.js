@@ -1,6 +1,7 @@
 import GitHubIcon from '@material-ui/icons/GitHub'
 import LinkedInIcon from '@material-ui/icons/LinkedIn'
 import { about } from '../../portfolio'
+import Checkout from '../Checkout'
 import './About.css'
 
 const About = () => {
@@ -21,8 +22,14 @@ const About = () => {
         {resume && (
           <a href={resume}>
             <span type='button' className='btn btn--outline'>
-              Resume
+              Consult
             </span>
+          </a>
+        )}
+
+        {resume && (
+          <a href=' '>
+            <Checkout />
           </a>
         )}
 

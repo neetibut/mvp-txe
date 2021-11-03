@@ -7,9 +7,10 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'we are teamxearth',
-  role: 'On-demand Consultancy and Development Team',
+  role: 'We strategize and develop products that users love',
+  text2: 'partner | hire | invest | join | follow',
   description:
-    'I think it’s because we know from our past experiences that big things start small. The biggest oak starts from an acorn and if you want to do anything new, you’ve got to be willing to let that acorn grow into a little sapling and then finally into a small tree and maybe one day it will be a big business on its own. - Jeff Bezos',
+    "'. . . we know from our past experiences that big things start small. The biggest oak starts from an acorn and if you want to do anything new, you’ve got to be willing to let that acorn grow into a little sapling and then finally into a small tree and maybe one day it will be a big business on its own. - Jeff Bezos'",
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
@@ -23,7 +24,7 @@ const aboutNV = [
     name: "I'm Neeti",
     role: 'Neetibut Vasinondha, Founder and Chief Engineer',
     description:
-      "Neeti is the founder and Chief Engineer at TeamXEarth, leading the overall direction and product strategy for the company and its family of apps: Smileytrade, Co-founder, Droptrade and Sangkom Capital. After earning his bachelor's and master's degree in medical engineering from Queen Mary, University of London in 2009, Neeti co-founded a food and technology startup in London in 2011. He led the company through a successful acquisition by a public company in 2017. He entered the software development industry in 2021 with particular interests in blockchain, artificial intelligence and app development. Neeti founded TeamXEarth as a digital-first and remote organization of multi-disciplinary full stack developers covering the fields of software engineering, design and strategy.",
+      "Neeti is the founder and Chief Engineer at TeamXEarth, leading the overall direction and product strategy for the company and its family of apps: Smileytrade, Co-founder, Droptrade and Sangkom Capital. After earning his bachelor's and master's degree in medical engineering from Queen Mary, University of London in 2009, Neeti co-founded a food and technology startup in London in 2011. It was an early pioneer in healthy fast food model and developed proprietary cashless, self-service and on-demand delivery system. He led the company through a successful acquisition by a public company in 2017. He entered the software development industry in 2021 with particular interests in web and mobile, blockchain, artificial intelligence, IoT and metaverse development. Neeti founded TeamXEarth as a digital-first and remote organization of multi-disciplinary full stack developers covering the fields of software engineering, design and strategy.",
     resume: 'https://example.com',
     social: {
       linkedin: 'https://linkedin.com',

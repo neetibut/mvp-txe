@@ -44,6 +44,13 @@ const projects = [
     livePreview: 'https://smileytrade.app',
   },
   {
+    name: 'Co-founder.app',
+    description: 'Consult experts on-demand',
+    stack: ['SASS', 'JavaScript', 'React'],
+    sourceCode: 'https://github.com',
+    livePreview: 'https://github.com',
+  },
+  {
     name: 'Sangkom Capital',
     description: 'Quant and AI-powered Hedge Fund',
     stack: ['SASS', 'JavaScript', 'React'],

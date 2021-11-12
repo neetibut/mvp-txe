@@ -11,6 +11,8 @@ const about = {
   text2: 'partner | hire | invest | join | follow',
   description:
     "'. . . we know from our past experiences that big things start small. The biggest oak starts from an acorn and if you want to do anything new, you’ve got to be willing to let that acorn grow into a little sapling and then finally into a small tree and maybe one day it will be a big business on its own. - Jeff Bezos'",
+  description2:
+    'At TXE we also build our own projects where investors can fund and follow an entire project lifecycle.',
   resume: 'https://example.com',
   social: {
     linkedin: 'https://linkedin.com',
@@ -73,15 +75,33 @@ const skills = [
   'CSS',
   'JavaScript',
   'TypeScript',
+  'Next',
+  'Express',
   'React',
+  'React Native',
   'Redux',
-  'SASS',
   'Material UI',
   'Git',
   'CI/CD',
   'Jest',
   'Enzyme',
+  'MongoDB',
+  'Stripe',
+  'PayPal',
+  'Omise',
+  'Netlify',
+  'Firebase',
+  'Node',
+  'Line',
+  'Coinbase',
+  'MetaMask',
+  'Blockchain',
+  'Ethereum',
+  'Moralis',
+  'Bitcoin',
   'NFT',
+  'Unity',
+  'Metaverse',
 ]
 
 const contact = {

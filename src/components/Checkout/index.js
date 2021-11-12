@@ -56,7 +56,7 @@ const Checkout = () => {
       }
       onClick={redirectToCheckout}
     >
-      BUY
+      consult
     </button>
   )
 }

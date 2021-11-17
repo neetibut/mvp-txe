@@ -33,13 +33,15 @@ const About = () => {
           </a>
         )} */}
 
-        {resume && (
-          <a href='https://calendly.com/neetibut/15min'>
-            <span type='button' className='btn btn--outline'>
-              Consult
-            </span>
-          </a>
-        )}
+        <a
+          href='https://calendly.com/neetibut/15min'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          <span type='button' className='btn btn--outline'>
+            Consult
+          </span>
+        </a>
 
         {social && (
           <>

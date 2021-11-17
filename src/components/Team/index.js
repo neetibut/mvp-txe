@@ -28,6 +28,17 @@ const Team = () => {
           <p className='about__desc'>{description && description}</p>
         </div>
       </div>
+      <div className='about about__contact center'>
+        <a
+          href='https://calendly.com/neetibut/15min'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
+          <span type='button' className='btn btn--outline'>
+            Consult
+          </span>
+        </a>
+      </div>
     </section>
   )
 }
